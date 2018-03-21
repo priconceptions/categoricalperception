@@ -1,6 +1,6 @@
 ## Description of Exemplar model
 
-**The full code for this model can be found [here](src/exemplar0.m)**
+**The full code for this model can be found [here](https://github.com/priyankadhulkhed/categoricalperception/blob/master/src/exemplar0.m)**
 
 The exemplar model of categorization proposes that humans categorize objects based on the summed similarities of the given object to all *exemplars* of a particular category.
 
