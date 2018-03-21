@@ -5,6 +5,6 @@ Throughout this project, I attempt to understand the different models described 
 
 Two major models are:
 * [The prototype model](posts/prototype.md)
-* The exemplar model
+* [The exemplar model](posts/exemplar.md)
 
 
