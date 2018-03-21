@@ -4,10 +4,10 @@ The prototype model of categorization proposes that humans categorize an object 
 
 Similarity to the prototype is calculated using the distance to the prototype. The function for the [Minkowski distance](https://en.wikipedia.org/wiki/Minkowski_distance), given two vectors and r is:
 
-'''
+```
 function [ dist ] = minkowski_distance(v1, v2, r)
 %MINKOWSKI_DISTANCE: computes minkowski distance of two vectors
 %   Detailed explanation goes here
 dist  = (sum(abs(v1 - v2) .^ r)) ^ (1/r);
 end
-'''
+```
