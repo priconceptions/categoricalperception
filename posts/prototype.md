@@ -1,6 +1,6 @@
 ## Description of Prototype model
 
-**The full code for this model can be found [here](src/prototype0.m)**
+**The full code for this model can be found [here](https://github.com/priyankadhulkhed/categoricalperception/blob/master/src/prototype0.m)**
 
 The prototype model of categorization proposes that humans categorize an object based on how similar it is to a prototype of that category. A prototype of a category is an average of all objects seen from a given category. An observer following the prototype model would, upon seeing a new object, compare it to the average (prototype) and group it based on how similar it is to the prototype.
 
