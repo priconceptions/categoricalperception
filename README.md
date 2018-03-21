@@ -4,7 +4,7 @@ This project aims to build and understand categorical perception models that att
 Throughout this project, I attempt to understand the different models described in literature and model them using MATLAB. I then compare these mathematical models to subject performance to discern how categorization works for humans.
 
 Two major models are:
-* [The prototype model](prototype.md)
+* [The prototype model](posts/prototype.md)
 * The exemplar model
 
 
