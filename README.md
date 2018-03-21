@@ -7,4 +7,6 @@ Two major models are:
 * [The prototype model](posts/prototype.md)
 * [The exemplar model](posts/exemplar.md)
 
+The link to this project is [here](https://priyankadhulkhed.github.io/categoricalperception).
+
 
