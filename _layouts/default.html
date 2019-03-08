@@ -7,6 +7,9 @@
 {% seo %}
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./styles.css">
+
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -42,6 +45,11 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
+        <p> <a href="https://priyankadhulkhed.github.io">Priyanka Dhulkhed - Home</a>"</p>
+        <p>
+          <a href="https://twitter.com/priDhulkhed" class="fa fa-twitter"></a>
+          <a href="https://github.com/priyankadhulkhed" class="fa fa-github"></a>
+        </p>
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
